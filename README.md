@@ -13,4 +13,4 @@ Note 1 : Please run this apk in Samsung Android 10 and above devices.
 
 Note 2 : Don't disconnect app configured wifi manually then OS will blacklist that wifi for 24 hours maximum since it is app configured wifi. If you want to disconnect app configured wifi, then simply uninstall and reinstall this app.
 
-Open issue : In Samsung Android 10 device if the SSID is hidden then configuration and connection will not success.
+Open issues : In Samsung Android 10 device if the SSID is hidden then configuration and connection will not success.
